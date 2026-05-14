@@ -134,4 +134,4 @@ py -m app generate --type julia --real -0.7 --imag 0.27 --step 0.002 --out meu_f
 ```
 
 ---
-**Desenvolvido por:** [João Pedro Luvisari Severiano](https://github.com/JoaoPedroLuvisariSeveriano)
+**Desenvolvido por:** [Felipe Faria Machado](https://github.com/felipefmac)
